@@ -1,0 +1,273 @@
+body {
+    background-image: url(superlig.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.headerr {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tff {
+    height: 200px;
+    width: 300px;
+    background-image: url(tff.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.trendyol {
+    height: 200px;
+    width: 220px;
+    background-image: url(trendyol.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -25px;
+}
+
+.season {
+    height: 150px;
+    width: 100px;
+    color: rgb(250, 35, 57);
+    font-size: 60px;
+}
+
+.upcoming {
+    position: absolute;
+    height: 70px;
+    width: 450px;
+    background-image: url(ucl.jpg);
+    background-size: cover;
+    margin-top: 30px;
+    left: 40px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.teams {
+    position: absolute;
+    height: 70px;
+    width: 450px;
+    background-image: url(ucl.jpg);
+    background-size: cover;
+    margin-top: 120px;
+    left: 40px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.score {
+    height: 455px;
+    width: 450px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 40px;
+}
+
+.gameone {
+    height: 70px;
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gametwo {
+    height: 70px;
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gamethree {
+    height: 70px;
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gamefour {
+    height: 70px;
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gamefive {
+    height: 70px;
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gamesix {
+    height: 70px;
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.alanyagame {
+    height: 70px;
+    width: 70px;
+    background-image: url(alanya.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+.fkggame {
+    height: 70px;
+    width: 70px;
+    background-image: url(fkg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.galagame {
+    height: 70px;
+    width: 45px;
+    background-image: url(galatasaray.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+}
+
+.fenergame {
+    height: 70px;
+    width: 70px;
+    background-image: url(fener.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.besikgame {
+    height: 80px;
+    width: 80px;
+    background-image: url(besiktas.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 1px;
+}
+
+.adanagame {
+    height: 70px;
+    width: 70px;
+    background-image: url(adana.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+.trabzongame {
+    height: 70px;
+    width: 80px;
+    background-image: url(trabzon.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 20px;
+}
+
+.sivasgame {
+    height: 60px;
+    width: 60px;
+    background-image: url(sivasspor.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 15px;
+}
+
+.konyagame {
+    height: 70px;
+    width: 70px;
+    background-image: url(konya.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.rizegame {
+    height: 70px;
+    width: 70px;
+    background-image: url(rize.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+.antalyagame {
+    height: 70px;
+    width: 70px;
+    background-image: url(antalya.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.kasimpasagame {
+    height: 70px;
+    width: 80px;
+    background-image: url(kasimpasa.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+.scoreone {
+    justify-content: center;
+    font-size: 70px;
+    margin-left: 20px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.scoretwo {
+    justify-content: center;
+    font-size: 70px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.scorethree {
+    justify-content: center;
+    font-size: 70px;
+    margin-left: 30px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.scorefour {
+    justify-content: center;
+    font-size: 70px;
+    margin-left: 10px;
+    color: rgb(255, 255, 255);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.scorefive {
+    justify-content: center;
+    font-size: 70px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.scoresix {
+    justify-content: center;
+    font-size: 70px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+    color: white;
+}
